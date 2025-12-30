@@ -1,0 +1,1 @@
+print("Optimizacion de Farneback para procesadores modernos")
